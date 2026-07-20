@@ -70,6 +70,16 @@ Na pauta, a posição vertical da nota representa a região do toque:
 
 O editor permite semibreve, mínima, semínima, colcheia, semicolcheia, fusa e semifusa, além de pausas equivalentes. O ponto de aumento adiciona 50% à duração selecionada.
 
+### Referências
+
+A notação do Pandeiro de Bamba foi baseada em trabalhos acadêmicos sobre escrita e prática do pandeiro brasileiro:
+
+- STASI, Carlos. _O instrumento do "Diabo": música, imaginação e marginalidade_. São Paulo: Editora UNESP, 2011. ISBN 978-65-5714-534-0. DOI: [10.7476/9786557145340](https://doi.org/10.7476/9786557145340).
+- BRANDÃO, Ricardo Augusto de Lima; BARSALINI, Leandro. _Notas sobre o pandeiro brasileiro, suas notas e suas escritas_. In: XXXII Congresso da ANPPOM, Natal, 2022.
+- VIDILI, Eduardo Marcel. _Pandeiro brasileiro: inovação e metodologia na performance de Marcos Suzano em Olho de Peixe_. In: XXVI Congresso da ANPPOM, Belo Horizonte, 2016.
+- SCHETTINI, Marcos Vinicius Lacerda. _Tambores emoldurados e o ensino do pandeiro brasileiro por meio de materiais didáticos_. Universidade Federal do Paraná, Curitiba, 2024.
+- BIAGIONI, Vitor Lyra. _Composição de obras para pandeiro brasileiro solo no contexto da música de concerto_. Universidade Federal de Uberlândia, Uberlândia, 2022.
+
 ## Stack
 
 - SvelteKit

@@ -1,0 +1,2703 @@
+{
+  "format": "pandeiro-de-bamba-score",
+  "formatVersion": 2,
+  "exportedAt": "2026-05-02T04:27:13.018Z",
+  "score": {
+    "title": "Conversa de botequim",
+    "instrument": "pandeiro",
+    "genre": "Samba",
+    "bpm": 110,
+    "timeSignature": {
+      "beats": 2,
+      "subdivision": 4
+    },
+    "measures": 16,
+    "cells": [
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4,
+        "explicitRest": true
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null,
+        "durationSteps": 8,
+        "explicitRest": true
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 8
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 8
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P_mut",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D_mut",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": "T",
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      }
+    ],
+    "accents": [1],
+    "type": "library"
+  }
+}

@@ -1,0 +1,45 @@
+# Dependências e build (SvelteKit / Node)
+node_modules/
+build/
+.svelte-kit/
+package/
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Ambiente e segredos
+.env
+.env.*
+!.env.example
+.envrc
+
+# Testes e cobertura
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+coverage/
+
+# Ferramentas e SO
+.DS_Store
+Thumbs.db
+*.log
+.npm
+.pnpm-debug.log*
+
+# Lockfiles de outros gerenciadores (projeto usa pnpm)
+package-lock.json
+yarn.lock
+
+# Python na raiz do repo (não confundir com src/lib do SvelteKit)
+__pycache__/
+*.py[cod]
+/lib/
+/lib64/
+.venv/
+venv/
+
+# Materiais de desenvolvimento — não publicar
+refs/
+INPI.md

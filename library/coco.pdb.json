@@ -1,0 +1,190 @@
+{
+  "format": "pandeiro-de-bamba-score",
+  "formatVersion": 2,
+  "exportedAt": "2026-05-13T00:25:12.060Z",
+  "score": {
+    "title": "Coco",
+    "instrument": "pandeiro",
+    "genre": "Coco",
+    "type": "library",
+    "bpm": 90,
+    "timeSignature": {
+      "beats": 2,
+      "subdivision": 4
+    },
+    "measures": 1,
+    "cells": [
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": "T",
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 2
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null,
+        "durationSteps": 2,
+        "explicitRest": true
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      }
+    ],
+    "accents": [1]
+  }
+}

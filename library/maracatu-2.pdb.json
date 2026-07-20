@@ -1,0 +1,351 @@
+{
+  "format": "pandeiro-de-bamba-score",
+  "formatVersion": 2,
+  "exportedAt": "2026-05-02T02:54:20.381Z",
+  "score": {
+    "title": "Maracatu 2",
+    "instrument": "pandeiro",
+    "genre": "Maracatu",
+    "bpm": 90,
+    "timeSignature": {
+      "beats": 2,
+      "subdivision": 4
+    },
+    "measures": 2,
+    "cells": [
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 8
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 8
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 8
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 12
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      }
+    ],
+    "accents": [1],
+    "type": "library"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "format": "pandeiro-de-bamba-score",
+  "formatVersion": 2,
+  "exportedAt": "2026-05-01T18:20:58.208Z",
+  "score": {
+    "title": "Embolada - Suzano",
+    "instrument": "pandeiro",
+    "genre": "Embolada",
+    "bpm": 90,
+    "timeSignature": {
+      "beats": 2,
+      "subdivision": 4
+    },
+    "measures": 1,
+    "cells": [
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "D",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": "T",
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      }
+    ],
+    "accents": [1],
+    "type": "library"
+  }
+}

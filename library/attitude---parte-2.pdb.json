@@ -1,0 +1,190 @@
+{
+  "format": "pandeiro-de-bamba-score",
+  "formatVersion": 2,
+  "exportedAt": "2026-05-12T22:33:38.356Z",
+  "score": {
+    "title": "Attitude-pt2",
+    "instrument": "pandeiro",
+    "genre": "Capoeira",
+    "bpm": 80,
+    "timeSignature": {
+      "beats": 2,
+      "subdivision": 4
+    },
+    "measures": 1,
+    "cells": [
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": "F",
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "H",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": "T",
+        "cima": null,
+        "durationSteps": 4
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": "P",
+        "meio": null,
+        "cima": null,
+        "durationSteps": 8
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": "T",
+        "cima": null,
+        "durationSteps": 6
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null,
+        "durationSteps": 2,
+        "explicitRest": true
+      },
+      {
+        "baixo": null,
+        "meio": null,
+        "cima": null
+      }
+    ],
+    "accents": [1],
+    "subtitle": "Sepultura",
+    "author": "Roots / ~1:45",
+    "type": "library"
+  }
+}
